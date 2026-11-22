@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, Nice to meet you 👋
 
-<!--
-**DANIAL3304/DANIAL3304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year **Computer Science (Honours)** student at **Universiti Putra Malaysia (UPM)** · CGPA 3.93 · Dean's List ×6
 
-Here are some ideas to get you started:
+I build full-stack web applications and interactive tools, mostly with **Laravel**, **Spring Boot**, **JavaScript** and **MySQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Looking for an internship to gain industry experience and contribute to real-world projects** · Available **March – August 2027 (24 weeks)**
+
+---
+
+### Featured Projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| **iOKU PASS** (Final Year Project) | OKU parking sticker management system for MBSA with data entry assisted by Optical Character Recognition (OCR) | Laravel, PHP, MySQL, PaddleOCR, OpenCV |
+| **JobFinder** | Job portal with 3 user roles, role-based dashboards and a full hiring workflow | Spring Boot, Spring Security, MySQL |
+| [**Robotic Learning Platform**](https://github.com/DANIAL3304/robotic-learning-platform) · [Live demo](https://danial3304.github.io/robotic-learning-platform/) | Browser-based robotics labs: Kalman Filter simulator, sensor test bench and robot arm kinematics | JavaScript, p5.js, HTML Canvas |
+| [**studentCab**](https://github.com/DANIAL3304/studentCab_javaFx_Project) | Desktop application built with JavaFX | Java, JavaFX |
+| [**Smart EV Charger Tracker**](https://github.com/DANIAL3304/SMART-EV-CHARGER-TRACKER-BLYNK-WOKWII-) | IoT EV charger monitoring simulated on Wokwi with a Blynk dashboard | C, Blynk, Wokwi |
+
+---
+
+### Tech Stack
+
+**Languages:** Java · PHP · JavaScript · Python · C++ · SQL
+**Frameworks:** Laravel · Spring Boot · Spring Security
+**Databases:** MySQL · Oracle Database
+**Tools:** Git · Docker · Linux · Figma · Power BI · Jupyter
+
+---
+
+### Highlights
+
+- 🥈 **Silver Medal**, PEDi Colloquium 2026: co-developed *SciDuel*, a learning platform mentored by industry partner Mesiniaga
+- 📜 Google Cybersecurity, UX Design and AI Professional Certificates (Coursera)
+- 🧑‍💼 Programme Director, SULAM 2025: Exploring Artificial Intelligence
+
+---
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/danial3304/) · danialhaikal3304@gmail.com
