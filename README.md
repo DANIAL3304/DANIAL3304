@@ -1,6 +1,6 @@
 # Hi, Nice to meet you 👋
 
-Final-year **Computer Science (Honours)** student at **Universiti Putra Malaysia (UPM)** · CGPA 3.93 · Dean's List ×6
+I am a final-year **Computer Science (Honours)** student at **Universiti Putra Malaysia (UPM)** · CGPA 3.93 · Dean's List ×6
 
 I build full-stack web applications and interactive tools, mostly with **Laravel**, **Spring Boot**, **JavaScript** and **MySQL**.
 🌱 Always learning: currently exploring [e.g. OCR tech / cloud / Docker / React JS]
