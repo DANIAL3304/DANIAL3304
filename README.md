@@ -30,14 +30,6 @@ I build full-stack web applications and interactive tools, mostly with **Laravel
 
 ---
 
-### Highlights
-
-- 🥈 **Silver Medal**, PEDi Colloquium 2026: co-developed *SciDuel*, a learning platform mentored by industry partner Mesiniaga
-- 📜 Google Cybersecurity, UX Design and AI Professional Certificates (Coursera)
-- 🧑‍💼 Programme Director, SULAM 2025: Exploring Artificial Intelligence
-
----
-
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/danial3304/) · danialhaikal3304@gmail.com
