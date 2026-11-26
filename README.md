@@ -3,7 +3,7 @@
 I am a final-year **Computer Science (Honours)** student at **Universiti Putra Malaysia (UPM)** · CGPA 3.93 · Dean's List ×6
 
 I build full-stack web applications and interactive tools, mostly with **Laravel**, **Spring Boot**, **JavaScript** and **MySQL**.
-🌱 Always learning: currently exploring [e.g. OCR tech / cloud / Docker / React JS]
+🌱 Always learning: currently exploring [e.g cloud / Docker / React JS / ASP.net]
 
 **Looking for an internship to gain industry experience and contribute to real-world projects** · Available **March – August 2027 (24 weeks)**
 
